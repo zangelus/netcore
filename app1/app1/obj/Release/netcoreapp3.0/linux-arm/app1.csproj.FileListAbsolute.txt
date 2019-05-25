@@ -1,0 +1,11 @@
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\bin\Release\netcoreapp3.0\linux-arm\app1
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\bin\Release\netcoreapp3.0\linux-arm\app1.deps.json
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\bin\Release\netcoreapp3.0\linux-arm\app1.runtimeconfig.json
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\bin\Release\netcoreapp3.0\linux-arm\app1.runtimeconfig.dev.json
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\bin\Release\netcoreapp3.0\linux-arm\app1.dll
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\bin\Release\netcoreapp3.0\linux-arm\app1.pdb
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\obj\Release\netcoreapp3.0\linux-arm\app1.csproj.CoreCompileInputs.cache
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\obj\Release\netcoreapp3.0\linux-arm\app1.AssemblyInfoInputs.cache
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\obj\Release\netcoreapp3.0\linux-arm\app1.AssemblyInfo.cs
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\obj\Release\netcoreapp3.0\linux-arm\app1.dll
+C:\Users\zange\MyDocuments\Education\netcore\app1\app1\obj\Release\netcoreapp3.0\linux-arm\app1.pdb

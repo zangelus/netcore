@@ -1,0 +1,35 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0/linux-arm",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {},
+    ".NETCoreApp,Version=v3.0/linux-arm": {
+      "app1/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App.Host.linux-arm": "3.0.0-preview5-27626-15"
+        },
+        "runtime": {
+          "app1.dll": {}
+        }
+      },
+      "Microsoft.NETCore.App.Host.linux-arm/3.0.0-preview5-27626-15": {}
+    }
+  },
+  "libraries": {
+    "app1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.App.Host.linux-arm/3.0.0-preview5-27626-15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OSSR/q3hCkFuJX5ZMBEIEucs6btJZSonItlygGMGKOwfCfZypm4ZZhbdj2XFiG41d/0X2FVV+Q8DWLi5qF5xXA==",
+      "path": "microsoft.netcore.app.host.linux-arm/3.0.0-preview5-27626-15",
+      "hashPath": "microsoft.netcore.app.host.linux-arm.3.0.0-preview5-27626-15.nupkg.sha512"
+    }
+  }
+}

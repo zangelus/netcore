@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Microsoft.NETCore.App.Host.linux-arm/3.0.0-preview5-27626-15": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/_._": {
+            "assetType": "native",
+            "rid": "linux-arm"
+          }
+        }
+      }
+    },
+    ".NETCoreApp,Version=v3.0/linux-arm": {
+      "Microsoft.NETCore.App.Host.linux-arm/3.0.0-preview5-27626-15": {
+        "type": "package",
+        "native": {
+          "runtimes/linux-arm/native/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NETCore.App.Host.linux-arm/3.0.0-preview5-27626-15": {
+      "sha512": "OSSR/q3hCkFuJX5ZMBEIEucs6btJZSonItlygGMGKOwfCfZypm4ZZhbdj2XFiG41d/0X2FVV+Q8DWLi5qF5xXA==",
+      "type": "package",
+      "path": "microsoft.netcore.app.host.linux-arm/3.0.0-preview5-27626-15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "microsoft.netcore.app.host.linux-arm.3.0.0-preview5-27626-15.nupkg.sha512",
+        "microsoft.netcore.app.host.linux-arm.nuspec",
+        "runtimes/linux-arm/native/apphost",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Microsoft.NETCore.App.Host.linux-arm >= 3.0.0-preview5-27626-15"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zange\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zange\\MyDocuments\\Education\\netcore\\app1\\app1\\app1.csproj",
+      "projectName": "app1",
+      "projectPath": "C:\\Users\\zange\\MyDocuments\\Education\\netcore\\app1\\app1\\app1.csproj",
+      "packagesPath": "C:\\Users\\zange\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zange\\MyDocuments\\Education\\netcore\\app1\\app1\\obj\\publish\\linux-arm\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\zange\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App.Host.linux-arm": {
+            "include": "None",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.0.0-preview5-27626-15, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      }
+    },
+    "runtimes": {
+      "linux-arm": {
+        "#import": []
+      }
+    }
+  }
+}
